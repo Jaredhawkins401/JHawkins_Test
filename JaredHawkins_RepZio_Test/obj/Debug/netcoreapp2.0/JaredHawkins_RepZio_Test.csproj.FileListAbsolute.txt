@@ -1,0 +1,11 @@
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\bin\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.deps.json
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\bin\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.runtimeconfig.json
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\bin\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.runtimeconfig.dev.json
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\bin\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.dll
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\bin\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.pdb
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.csprojResolveAssemblyReference.cache
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.csproj.CoreCompileInputs.cache
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.AssemblyInfoInputs.cache
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.AssemblyInfo.cs
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.dll
+c:\users\jared\source\repos\JaredHawkins_RepZio_Test\JaredHawkins_RepZio_Test\obj\Debug\netcoreapp2.0\JaredHawkins_RepZio_Test.pdb

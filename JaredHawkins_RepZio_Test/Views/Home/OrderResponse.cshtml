@@ -1,0 +1,28 @@
+﻿@model OrderResponse
+@{Layout = "_Layout"; ViewBag.Title = "Order"; }
+<h2>Order</h2>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>Shipping</td>
+                <td>Rate</td>
+                <td>Order Total</td>
+            </tr>
+            
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    @Model.Order.Shipping
+                </td>
+                <td>
+                    @Model.Order.Rate
+                </td>
+                <td>
+                    @Model.Order.OrderTotalAmount
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

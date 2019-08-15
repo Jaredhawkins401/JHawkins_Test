@@ -1,0 +1,13 @@
+﻿@model Rate
+@{
+    ViewData["Title"] = "TaxRate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TaxRate</h2>
+
+<form method="get" asp-controller="Home" asp-action="CheckTaxRate">
+    <label asp-for="Zip"></label>
+    <input asp-for="Zip" />
+    <input type="submit" formmethod="get" asp-controller="Home" asp-action="CheckTaxRate" />
+</form>

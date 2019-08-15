@@ -1,0 +1,42 @@
+﻿@model RateResponse
+@{
+    ViewData["Title"] = "TaxResponse";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TaxResponse</h2>
+<table>
+    <thead>
+        <tr>
+            <td>
+                City
+            </td>
+            <td>
+                City Tax Rate
+            </td>
+            <td>
+                State
+            </td>
+            <td>
+                State Tax Rate
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Model.Rate.City
+            </td>
+            <td>
+                @Model.Rate.CityRate
+            </td>
+            <td>
+                @Model.Rate.State
+            </td>
+            <td>
+                @Model.Rate.StateRate
+            </td>
+        </tr>
+    </tbody>
+</table>
+
